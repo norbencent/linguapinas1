@@ -14,6 +14,8 @@ An **offline** retro-futuristic pixel-art pirate action RPG for **Android**, bui
 
 (Real frames rendered by Godot from this project. The gallery shows the imported asset packs playing their *attack* animation.)
 
+📖 **New player?** Read the illustrated **[Player's Guide](docs/user_guide/USER_GUIDE.md)**.
+
 ---
 
 ## Status: Phase 1 (Project Foundation) ✅ complete and verified
